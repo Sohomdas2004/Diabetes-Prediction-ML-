@@ -2,11 +2,15 @@
 
 End-to-End Machine Learning Project | Python | Scikit-Learn | Data Science
 
+
+
 **📌 Project Summary **
 
 This project implements a complete Machine Learning model to predict diabetes based on medical diagnostic parameters. It covers data preprocessing, exploratory data analysis (EDA), feature engineering, model training, hyperparameter tuning, and evaluation.
 
 Designed to demonstrate strong fundamentals in Python, Data Science, Machine Learning, and problem-solving, making it suitable for Data Analyst, Data Scientist, and Machine Learning Engineer fresher roles.
+
+
 
 **🔍 Problem Statement**
 
@@ -24,7 +28,8 @@ Early detection of diabetes helps prevent severe complications. The objective of
 
 **Tools**: Jupyter Notebook, Git, GitHub
 
-Age
+
+
 
 **Target Variable:**
 
